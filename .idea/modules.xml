@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../BankAccountCommon/BankAccountCommon.iml" filepath="$PROJECT_DIR$/../BankAccountCommon/BankAccountCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BankAccountServer.iml" filepath="$PROJECT_DIR$/BankAccountServer.iml" />
+    </modules>
+  </component>
+</project>
